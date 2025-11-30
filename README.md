@@ -1,2 +1,2 @@
 # mubashir-is-av
-this is my first reop
+this is my first repository
